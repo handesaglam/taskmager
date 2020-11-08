@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044984031443",
+    "firebase_url": "https://piton-ac337.firebaseio.com",
+    "project_id": "piton-ac337",
+    "storage_bucket": "piton-ac337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044984031443:android:aa04732ad7ae84f3338c26",
+        "android_client_info": {
+          "package_name": "com.example.piton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044984031443-3flv6bn53vce7duh7kidvmpgjf1jam8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoeALlcI0NjFaGsg1JsdqYZZsFPiTkbns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044984031443-3flv6bn53vce7duh7kidvmpgjf1jam8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
